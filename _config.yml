@@ -1,0 +1,7 @@
+# Site settings
+title: Incandescence... and other things
+description: Stuff about me
+keywords: Modern, Blogging, Fun
+author: Raja
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "rajaratnmc.github.io" # the base hostname & protocol for your site
