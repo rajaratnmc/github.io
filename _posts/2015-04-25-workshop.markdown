@@ -10,7 +10,6 @@ date:   2016-11-23 12:12:12
 # The Hero with a thousand faces
 _Introduction_
 
-What’s the best way to go about creating a character? And how do you establish a relationship between your character, his or her dramatic choices, and the story you’re telling? How do you determine whether your character will drive a car, or ride a bicycle, or take the bus or just walk, and what kind of paintings or posters hang in his/her house or apartment? Famous screenplay writers and doctors say “Before you can put one word down on paper, you must know your character.” Why? Disclaimer: Before you start reading, I would like to inform you that the answers to the above questions are all opinionated. It may or may not correlate with your ideology as the below mentioned is primarily based on personal experiences influenced by storytellers and screenplay consultants whom I idolize.
-
+What&#8217;s the best way to go about creating a character? And how do you establish a relationship between your character, his or her dramatic choices, and the story you&#8217;re telling? How do you determine whether your character will drive a car, or ride a bicycle, or take the bus or just walk, and what kind of paintings or posters hang in his/her house or apartment? Famous screenplay writers and doctors say “Before you can put one word down on paper, you must know your character.” Why? Disclaimer: Before you start reading, I would like to inform you that the answers to the above questions are all opinionated. It may or may not correlate with your ideology as the below mentioned is primarily based on personal experiences influenced by storytellers and screenplay consultants whom I idolize.
 ![daenerys]({{ site.url }}/img/post1/01.png){:class="img-responsive"}
 
